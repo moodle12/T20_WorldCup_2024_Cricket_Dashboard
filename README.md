@@ -8,7 +8,6 @@ T20_WorldCup_2024_Cricket_Dashboard
 ![Screenshot (931)](https://github.com/user-attachments/assets/e54dc634-ab21-4143-a159-a3db744b1568)
 ![Screenshot (930)](https://github.com/user-attachments/assets/a9734811-b664-4a31-837d-b86f3ac940d8)
 ![Screenshot (929)](https://github.com/user-attachments/assets/a8116fc4-092e-420d-90dd-89f251ca7085)
-![Screenshot (928)](https://github.com/user-attachments/assets/7627252c-8698-4182-a809-2def8373410b)
 ![Screenshot (932)](https://github.com/user-attachments/assets/1c280ebf-32fa-4f2a-9505-b2848224bafe)
 ![Screenshot (938)](https://github.com/user-attachments/assets/4af15504-5bdd-4940-91ea-bc1cd87e5773)
 ![Screenshot (937)](https://github.com/user-attachments/assets/3f13abf5-89c1-488b-8086-4328786c9344)
